@@ -40,3 +40,6 @@ https://github.com/Crystal-Bell/DEV-LAB
 Advanced.\n
  
 https://github.com/Crystal-Bell/Master-Infrastructure-Protocol-Log-Ecosystem-Expansion
+
+https://github.com/Crystal-Bell/Master-Mesh-Protocol-Living-Infrastructure-Universal-Provenance
+
