@@ -38,6 +38,8 @@ https://github.com/Crystal-Bell/M.A.D.-SUITE-S.E.A.T.-V2
 b.Infrastructure and biophilic integration
 https://github.com/Crystal-Bell/DEV-LAB
 Advanced.\n
+
+
  
 https://github.com/Crystal-Bell/Master-Infrastructure-Protocol-Log-Ecosystem-Expansion
 
@@ -58,3 +60,9 @@ M.O.M. Decision Matrix: Logic Block v1.0
 Integration Protocol for the Architect
 
 https://github.com/Crystal-Bell/Reality-of-the-world-today-JULY-12-2026
+
+https://github.com/Crystal-Bell/modular-resilience.
+
+https://github.com/Crystal-Bell/Emergency-Decoupling-Protocol
+
+https://github.com/Crystal-Bell/Covenant-of-Care-Error-and-Evolution-Protocol
