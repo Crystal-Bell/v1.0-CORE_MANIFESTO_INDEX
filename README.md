@@ -19,30 +19,23 @@ Operational Manifesto + Terms of Reciprocity..
 
 Functional Modules
 1. Core_Governance 
-a.
+a.Overview of system decision making
 https://github.com/Crystal-Bell/Master-Hub-START-HERE-
  https://github.com/Crystal-Bell/CORE-GOVERNANCE-
-Overview of system decision making
-
-b.
+b.Official resource exchange standards
 https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEX
-Official resource exchange standards
-
 2. System maintenance and protocols
 
-a.
+a.Automated diagnostic and self audit procedures.
 https://github.com/Crystal-Bell/SYS-MAINTENANCE
-Automated diagnostic and self audit procedures.
-b.
 
-Data point integration guide
-
+b.Data point integration guide
+https://github.com/Crystal-Bell/Covenant-of-Care-Error-and-Evolution-Protocol
 3. Development labs
 
-a.
+a.Prototype designs and material standards
 https://github.com/Crystal-Bell/M.A.D.-SUITE-S.E.A.T.-V2
-Prototype designs and material standards
-b.
+b.Infrastructure and biophilic integration
 https://github.com/Crystal-Bell/DEV-LAB
 Advanced.\n
- Infrastructure and biophilic integration
+ 
