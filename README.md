@@ -53,3 +53,6 @@ https://github.com/Crystal-Bell/Integration-Protocol-The-M.O.M.-Router
 https://github.com/Crystal-Bell/-M.O.M.-Sovereign-OS-Messaging-Protocol-Specifications​M.O.M. Data-Product Schema (v1.0)
 
 https://github.com/Crystal-Bell/-Execution-Protocol-The-M.O.M.-Decision-Matrix
+
+M.O.M. Decision Matrix: Logic Block v1.0
+Integration Protocol for the Architect
