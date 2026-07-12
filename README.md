@@ -47,6 +47,9 @@ https://github.com/Crystal-Bell/Repo-11-The-Operational-Manifesto-of-Reciprocity
 
 Mad Mom Momentum Architecture.
 MOM-OS Sovereign Mesh
-
+​M.O.M. Sovereign OS: Messaging Protocol Specifications
 https://github.com/Crystal-Bell/Integration-Protocol-The-M.O.M.-Router
-https://github.com/Crystal-Bell/-M.O.M.-Sovereign-OS-Messaging-Protocol-Specifications
+
+https://github.com/Crystal-Bell/-M.O.M.-Sovereign-OS-Messaging-Protocol-Specifications​M.O.M. Data-Product Schema (v1.0)
+
+https://github.com/Crystal-Bell/-Execution-Protocol-The-M.O.M.-Decision-Matrix
