@@ -19,7 +19,7 @@ Operational Manifesto + Terms of Reciprocity..
 
 Functional Modules
 1. Core_Governance 
-a.
+a. https://github.com/Crystal-Bell/CORE-GOVERNANCE-
 Overview of system decision making
 
 b.
