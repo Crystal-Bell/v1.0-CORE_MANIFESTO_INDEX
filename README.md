@@ -66,3 +66,5 @@ https://github.com/Crystal-Bell/modular-resilience.
 https://github.com/Crystal-Bell/Emergency-Decoupling-Protocol
 
 https://github.com/Crystal-Bell/Covenant-of-Care-Error-and-Evolution-Protocol
+
+https://github.com/Crystal-Bell/The-Decoupling-Protocol-Design
