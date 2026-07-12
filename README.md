@@ -43,4 +43,7 @@ https://github.com/Crystal-Bell/Master-Infrastructure-Protocol-Log-Ecosystem-Exp
 
 https://github.com/Crystal-Bell/Master-Mesh-Protocol-Living-Infrastructure-Universal-Provenance
 
-https://github.com/Crystal-Bell/Repo-11-The-Operational-Manifesto-of-Reciprocity
+https://github.com/Crystal-Bell/Repo-11-The-Operational-Manifesto-of-Reciprocity.
+
+Mad Mom Momentum Architecture.
+MOM-OS Sovereign Mesh
