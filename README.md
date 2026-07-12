@@ -70,3 +70,5 @@ https://github.com/Crystal-Bell/Covenant-of-Care-Error-and-Evolution-Protocol
 https://github.com/Crystal-Bell/The-Decoupling-Protocol-Design
 
 https://github.com/Crystal-Bell/Forrest-City
+
+https://github.com/Crystal-Bell/MAD-Work-Manual-Interface
