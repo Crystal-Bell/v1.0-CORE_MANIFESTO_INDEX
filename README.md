@@ -23,17 +23,24 @@ a. https://github.com/Crystal-Bell/CORE-GOVERNANCE-
 Overview of system decision making
 
 b.
+https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEX
 Official resource exchange standards
+
 2. System maintenance and protocols
 
 a.
+https://github.com/Crystal-Bell/SYS-MAINTENANCE
 Automated diagnostic and self audit procedures.
 b.
+
 Data point integration guide
 
 3. Development labs
 
 a.
+https://github.com/Crystal-Bell/M.A.D.-SUITE-S.E.A.T.-V2
 Prototype designs and material standards
 b.
-Advanced.\n Infrastructure and biophilic integration
+https://github.com/Crystal-Bell/DEV-LAB
+Advanced.\n
+ Infrastructure and biophilic integration
