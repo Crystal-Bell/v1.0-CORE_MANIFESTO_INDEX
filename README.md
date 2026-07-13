@@ -71,8 +71,5 @@ https://github.com/Crystal-Bell/The-Decoupling-Protocol-Design
 
 https://github.com/Crystal-Bell/Forrest-City
 
-https://github.com/Crystal-Bell/MAD-Work-Manual-Interface
-
-
-Environmental Symbiosis & Flow Management
-Hydraulic Infrastructure Restoration.geo-engineering tool to regulate natural water systems.  Forest-City/Fleet-OS repository under ."
+# MAD-Work-Manual-Interface
+https://github.com/Crystal-Bell/MAD-Work-Manual-Interface.
