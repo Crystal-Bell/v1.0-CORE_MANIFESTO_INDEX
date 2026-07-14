@@ -73,3 +73,14 @@ https://github.com/Crystal-Bell/Forrest-City
 
 # MAD-Work-Manual-Interface
 https://github.com/Crystal-Bell/MAD-Work-Manual-Interface.
+
+M.A.D. Suite Sleeper Protocol (The Inclusion Layer)
+
+M.A.D. Suite Couch Protocol 
+
+Stewardship-First Integration
+
+Constraint Protocol
+
+Provenance & Stewardship Constraint
+
