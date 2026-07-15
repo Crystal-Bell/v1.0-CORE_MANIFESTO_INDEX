@@ -85,3 +85,6 @@ Constraint Protocol
 Provenance & Stewardship Constraint
 
 https://github.com/Crystal-Bell/Proposal-Integrated-Infrastructure-Sustainability-Framework-IISF-
+
+
+https://github.com/Crystal-Bell/M.A.D.-Works-Systems-Charter-
