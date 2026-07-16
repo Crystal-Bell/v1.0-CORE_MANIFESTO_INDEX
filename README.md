@@ -179,3 +179,5 @@ https://github.com/Crystal-Bell/Protocol-257-The-Reclaimed-Apex-Apron-Service-We
 https://github.com/Crystal-Bell/Protocol-258-The-True-Spectrum-Verification-Interface
 
 https://github.com/Crystal-Bell/-Protocol-259-The-Anchor-Loop-Modular-Ear-Defense
+
+https://github.com/Crystal-Bell/-Protocol-260-The-Dermal-Guard-Therapeutic-Liner
