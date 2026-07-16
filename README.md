@@ -129,3 +129,5 @@ https://github.com/Crystal-Bell/Utility-Protocol-The-Spill-Proof-Reservoir-Impac
 ​Updated Protocol: The "Hydraulic-Suspension" Spill-Proof Station
 
 https://github.com/Crystal-Bell/Updated-Protocol-The-Flush-Mount-Damping-Station
+
+https://github.com/Crystal-Bell/-Protocol-237-Field-Expedient-Apparel-Expansion-The-Bridge-Method-
