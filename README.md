@@ -127,3 +127,5 @@ https://github.com/Crystal-Bell/Utility-Protocol-The-Multi-Tiered-Sifter-Modular
 https://github.com/Crystal-Bell/Utility-Protocol-The-Spill-Proof-Reservoir-Impact-Absorbing-
 
 ​Updated Protocol: The "Hydraulic-Suspension" Spill-Proof Station
+
+https://github.com/Crystal-Bell/Updated-Protocol-The-Flush-Mount-Damping-Station
