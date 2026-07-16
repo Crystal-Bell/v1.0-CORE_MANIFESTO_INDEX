@@ -161,3 +161,7 @@ https://github.com/Crystal-Bell/Master-Hub-START-HERE-
 [2] https://www.linkedin.com/posts/lotusking_1lakedr-thermodynamiccathedral-dignifieddensity-activity-7430003117573701634-jvvB
 
 https://github.com/Crystal-Bell/-Protocol-249-The-Ghost-Mode-Failsafe-Emergency-Override
+
+https://github.com/Crystal-Bell/Protocol-250-The-Sponge-Core-Hydrologic-Integration
+
+https://github.com/Crystal-Bell/-Protocol-251-The-Bi-Phasic-Structural-Gradient
