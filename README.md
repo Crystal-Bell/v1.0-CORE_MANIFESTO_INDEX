@@ -191,3 +191,6 @@ https://github.com/Crystal-Bell/-Protocol-263-The-Vaulted-Resonance-Specificatio
 
 https://github.com/Crystal-Bell/Protocol-264-The-Garden-Resonance-DIY-Kit
 
+https://github.com/Crystal-Bell/Protocol-265-The-Sonic-Deterrent-Soda-Can-Kinetic-Spinner.
+
+***License: This work is released under the Unlicense / CC-BY-4.0. All inventions herein are provided for humanitarian use, subject to the Genesis Covenant Protocol.***
