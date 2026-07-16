@@ -137,3 +137,8 @@ https://github.com/Crystal-Bell/-Protocol-238-The-Modular-Hydro-Rainbow-Vertical
 https://github.com/Crystal-Bell/Protocol-239-Molecular-Breakdown-Chemical-Stewardship
 
 https://github.com/Crystal-Bell/Protocol-240-Hardware-Reclamation-from-Vaporizers
+
+https://github.com/Crystal-Bell/Protocol-241-Conductive-Concrete-Energy-Storing-
+
+
+https://github.com/Crystal-Bell/-Protocol-242-Transparent-Wood-Thermal-Insulation-
