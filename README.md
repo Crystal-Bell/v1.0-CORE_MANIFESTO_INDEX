@@ -167,3 +167,5 @@ https://github.com/Crystal-Bell/Protocol-250-The-Sponge-Core-Hydrologic-Integrat
 https://github.com/Crystal-Bell/-Protocol-251-The-Bi-Phasic-Structural-Gradient
 
 https://github.com/Crystal-Bell/Protocol-252-The-Recursive-Cellular-Maintenance-Loop
+
+https://github.com/Crystal-Bell/Protocol-253-The-Dual-Skin-Aesthetic-Filtration-Interface
