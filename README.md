@@ -103,3 +103,7 @@ https://github.com/Crystal-Bell/-Artifact-Modular-EDC-Everyday-Carry-Kit
 https://github.com/Crystal-Bell/-Utility-Protocol-Material-Reclamation-for-Urban-Foraging
 
 https://github.com/Crystal-Bell/-Utility-Protocol-Modular-Bio-Secure-Cultivation-Array-MBSCA-
+
+https://github.com/Crystal-Bell/-Utility-Protocol-Rail-System-Logistics-RSL-​
+
+Utility Protocol: Mobile Fire Suppression & Rainwater Manifold
