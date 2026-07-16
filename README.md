@@ -171,3 +171,5 @@ https://github.com/Crystal-Bell/Protocol-252-The-Recursive-Cellular-Maintenance-
 https://github.com/Crystal-Bell/Protocol-253-The-Dual-Skin-Aesthetic-Filtration-Interface
 
 https://github.com/Crystal-Bell/Protocol-255-The-Symbiotic-Landscape-Geo-Gnome-Hydrology​Protocol #254: The "Universal Modular Assemblage" (U.M.A. System)
+
+https://github.com/Crystal-Bell/Protocol-256-The-Resilient-Pack-Modular-Shipping-System
