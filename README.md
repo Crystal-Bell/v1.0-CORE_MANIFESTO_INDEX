@@ -187,3 +187,7 @@ https://github.com/Crystal-Bell/-Protocol-261-The-U.B.A.T.-Universal-Bio-Adaptiv
 https://github.com/Crystal-Bell/Protocol-262-The-Fractal-Resonance-Geometry-FRG-
 
 https://github.com/Crystal-Bell/-Protocol-263-The-Vaulted-Resonance-Specification
+
+
+https://github.com/Crystal-Bell/Protocol-264-The-Garden-Resonance-DIY-Kit
+
