@@ -177,3 +177,5 @@ https://github.com/Crystal-Bell/Protocol-256-The-Resilient-Pack-Modular-Shipping
 https://github.com/Crystal-Bell/Protocol-257-The-Reclaimed-Apex-Apron-Service-Wear
 
 https://github.com/Crystal-Bell/Protocol-258-The-True-Spectrum-Verification-Interface
+
+https://github.com/Crystal-Bell/-Protocol-259-The-Anchor-Loop-Modular-Ear-Defense
