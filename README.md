@@ -144,3 +144,5 @@ https://github.com/Crystal-Bell/Protocol-241-Conductive-Concrete-Energy-Storing-
 https://github.com/Crystal-Bell/-Protocol-242-Transparent-Wood-Thermal-Insulation-
 
 https://github.com/Crystal-Bell/Protocol-243-The-Biomimetic-Energy-Envelope
+
+https://github.com/Crystal-Bell/Protocol-244-Biological-and-Civil-Sovereignty
