@@ -154,3 +154,8 @@ https://github.com/Crystal-Bell/-Protocol-246-Sovereign-Mesh-Outreach-Interopera
 https://github.com/Crystal-Bell/Protocol-247-The-Lumen-Morse-Backup-Communication-System
 
 https://github.com/Crystal-Bell/Protocol-248-The-Ambient-Glow-Electrophysiological-Mesh
+
+https://github.com/Crystal-Bell/Master-Hub-START-HERE-
+
+​[1] https://github.com/Crystal-Bell/Master-Hub-START-HERE-
+[2] https://www.linkedin.com/posts/lotusking_1lakedr-thermodynamiccathedral-dignifieddensity-activity-7430003117573701634-jvvB
