@@ -148,3 +148,5 @@ https://github.com/Crystal-Bell/Protocol-243-The-Biomimetic-Energy-Envelope
 https://github.com/Crystal-Bell/Protocol-244-Biological-and-Civil-Sovereignty
 
 https://github.com/Crystal-Bell/Protocol-245-The-Metabolic-Cost-of-Cognition
+
+https://github.com/Crystal-Bell/-Protocol-246-Sovereign-Mesh-Outreach-Interoperability
