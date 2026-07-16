@@ -150,3 +150,5 @@ https://github.com/Crystal-Bell/Protocol-244-Biological-and-Civil-Sovereignty
 https://github.com/Crystal-Bell/Protocol-245-The-Metabolic-Cost-of-Cognition
 
 https://github.com/Crystal-Bell/-Protocol-246-Sovereign-Mesh-Outreach-Interoperability
+
+https://github.com/Crystal-Bell/Protocol-247-The-Lumen-Morse-Backup-Communication-System
