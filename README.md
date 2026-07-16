@@ -117,3 +117,5 @@ https://github.com/Crystal-Bell/Utility-Protocol-Epiphytic-Bark-Mount-Assembly
 https://github.com/Crystal-Bell/-Utility-Protocol-The-Zero-Waste-Habitat-Soil-Factory
 
 https://github.com/Crystal-Bell/Utility-Protocol-The-Home-Inventory-Emergency-Depot
+
+https://github.com/Crystal-Bell/-Utility-Protocol-Propellant-Based-Impact-Thermal-Tool
