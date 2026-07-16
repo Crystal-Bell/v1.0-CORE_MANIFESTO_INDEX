@@ -96,3 +96,6 @@ https://github.com/Crystal-Bell/The-Repository-Entry-Project-Living-Pyramid-SSE-
 
 https://github.com/Crystal-Bell/-Repository-Living-Node-Initiative-SSE-02-
 
+https://github.com/Crystal-Bell/Utility-Protocol-M.A.D.-Grips-
+
+https://github.com/Crystal-Bell/-Artifact-Modular-EDC-Everyday-Carry-Kit
