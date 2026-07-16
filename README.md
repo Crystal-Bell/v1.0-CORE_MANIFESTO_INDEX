@@ -113,3 +113,5 @@ https://github.com/Crystal-Bell/-Utility-Protocol-Mobile-Fire-Suppression-Rainwa
 https://github.com/Crystal-Bell/-Utility-Protocol-Passive-Siphon-Suction-Transfer
 
 https://github.com/Crystal-Bell/Utility-Protocol-Epiphytic-Bark-Mount-Assembly
+
+https://github.com/Crystal-Bell/-Utility-Protocol-The-Zero-Waste-Habitat-Soil-Factory
