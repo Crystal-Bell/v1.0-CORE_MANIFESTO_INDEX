@@ -94,4 +94,5 @@ https://github.com/Crystal-Bell/-Protocol-SSE-01-Spatial-Synchronization
 
 https://github.com/Crystal-Bell/The-Repository-Entry-Project-Living-Pyramid-SSE-02-
 
+https://github.com/Crystal-Bell/-Repository-Living-Node-Initiative-SSE-02-
 
