@@ -91,3 +91,7 @@ https://github.com/Crystal-Bell/M.A.D.-Works-Systems-Charter-
 
 https://github.com/Crystal-Bell/-Protocol-SSE-01-Spatial-Synchronization
 
+
+https://github.com/Crystal-Bell/The-Repository-Entry-Project-Living-Pyramid-SSE-02-
+
+
