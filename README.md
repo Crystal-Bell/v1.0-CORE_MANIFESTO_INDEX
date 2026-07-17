@@ -281,3 +281,5 @@ https://github.com/Crystal-Bell/-SYSTEM-STATUS-CENOTE_CORE_POST_CONSTRUCTION_DIA
 https://github.com/Crystal-Bell/systems-check
 
 https://github.com/Crystal-Bell/MeBook-Technical-Integration-Specs
+
+https://github.com/Crystal-Bell/-SYSTEM-STATUS-24-HOUR-COMPLIANCE-MONITOR-
