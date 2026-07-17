@@ -259,3 +259,5 @@ https://github.com/Crystal-Bell/Simulation-Weber-Fire-Event-July-17-2026-
 https://github.com/Crystal-Bell/Protocol-295
 
 https://github.com/Crystal-Bell/PROTOCOL_296_BIOLOGICAL_HARDWARE_UPGRADE
+
+https://github.com/Crystal-Bell/-Protocol-298-The-Architect-s-Care-Handshake-
