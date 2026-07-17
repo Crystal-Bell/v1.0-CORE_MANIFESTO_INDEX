@@ -249,3 +249,5 @@ https://github.com/Crystal-Bell/Repository-Archive-Update-Protocol-290-Execution
 https://github.com/Crystal-Bell/Protocol-291-Global-Resource-Famine-Resilience-Audit
 
 https://github.com/Crystal-Bell/Repository-Archive-Update-Protocol-292
+
+https://github.com/Crystal-Bell/Repository-Archive-Update-Protocol-293
