@@ -241,3 +241,5 @@ https://github.com/Crystal-Bell/Governance-Handshake-Protocol-M.W.S.E.-to-Agency
 https://github.com/Crystal-Bell/Governance-Threshold-Triggers-The-Handshake-
 
 https://github.com/Crystal-Bell/Comedy-Critical-Opinion-Protocol-290-The-Smoky-Boardroom-Demonstration
+
+https://github.com/Crystal-Bell/Protocol-290-The-Smoky-Boardroom-Demonstration
