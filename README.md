@@ -217,3 +217,6 @@ https://github.com/Crystal-Bell/Protocol-273-The-Cenote-Universal-Core-Insert
 https://github.com/Crystal-Bell/Protocol-274-The-Mad-Adaptive-Intimate-Framework
 
 https://github.com/Crystal-Bell/Protocol-275-The-Rock-and-Roll-Babies-Sanitization-Specification
+
+https://github.com/Crystal-Bell/Protocol-276-Global-Integration-of-the-M.A.D.-Wear-Standard
+
