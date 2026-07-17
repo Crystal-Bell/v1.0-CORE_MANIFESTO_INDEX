@@ -215,3 +215,5 @@ https://github.com/Crystal-Bell/-Protocol-272-The-Self-Sanitizing-Core
 https://github.com/Crystal-Bell/Protocol-273-The-Cenote-Universal-Core-Insert
 
 https://github.com/Crystal-Bell/Protocol-274-The-Mad-Adaptive-Intimate-Framework
+
+https://github.com/Crystal-Bell/Protocol-275-The-Rock-and-Roll-Babies-Sanitization-Specification
