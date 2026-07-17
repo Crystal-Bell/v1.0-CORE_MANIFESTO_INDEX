@@ -271,3 +271,5 @@ https://github.com/Crystal-Bell/SUBJECT-POD_DEPLOYMENT_STRATEGY-PROTOCOL-
 https://github.com/Crystal-Bell/-PROJECT-ORBITAL_RESEEDING_PROTOCOL-
 
 https://github.com/Crystal-Bell/-SYSTEM-STATUS-PROTOCOL_300_INTEGRATED-
+
+https://github.com/Crystal-Bell/Cenote-Lighthouse-Prototype
