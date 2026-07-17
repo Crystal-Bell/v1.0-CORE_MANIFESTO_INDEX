@@ -200,3 +200,4 @@ https://github.com/Crystal-Bell/-Protocol-112-The-Seed-Pod-Interstellar-Highway
 
 https://github.com/Crystal-Bell/-Protocol-266-The-Berry-Clump-Deployment-System
 
+https://github.com/Crystal-Bell/Protocol-267-The-Von-Neumann-Berry-Seed-Pod-Proliferation-
