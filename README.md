@@ -239,3 +239,5 @@ https://github.com/Crystal-Bell/M.A.D.-System-Protocols-Resilience-Response
 https://github.com/Crystal-Bell/Governance-Handshake-Protocol-M.W.S.E.-to-Agency-Interoperability
 
 https://github.com/Crystal-Bell/Governance-Threshold-Triggers-The-Handshake-
+
+https://github.com/Crystal-Bell/Comedy-Critical-Opinion-Protocol-290-The-Smoky-Boardroom-Demonstration
