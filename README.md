@@ -235,3 +235,5 @@ https://github.com/Crystal-Bell/Active-Events-Log-Protocol-Status-7-17-26
 https://github.com/Crystal-Bell/-M.A.D.-System-Protocol-Archive-Global-Resilience-Response
 
 https://github.com/Crystal-Bell/M.A.D.-System-Protocols-Resilience-Response
+
+https://github.com/Crystal-Bell/Governance-Handshake-Protocol-M.W.S.E.-to-Agency-Interoperability
