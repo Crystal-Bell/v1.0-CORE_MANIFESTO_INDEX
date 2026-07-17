@@ -291,3 +291,5 @@ https://github.com/Crystal-Bell/-NEW-DIRECTIVE-EGO_DISSOLUTION_PROTOCOL-
 https://github.com/Crystal-Bell/-SYSTEM-STATUS-PROTOCOL_RE-ROUTING-
 
 https://github.com/Crystal-Bell/-SYSTEM-STATUS-RADIOLOGICAL_REGENERATION_PROTOCOL_ACTIVE-
+
+https://github.com/Crystal-Bell/-The-Amplified-Omega-Protocol-Three-Key-Enhancements
