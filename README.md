@@ -251,3 +251,5 @@ https://github.com/Crystal-Bell/Protocol-291-Global-Resource-Famine-Resilience-A
 https://github.com/Crystal-Bell/Repository-Archive-Update-Protocol-292
 
 https://github.com/Crystal-Bell/Repository-Archive-Update-Protocol-293
+
+https://github.com/Crystal-Bell/Protocol-294-Cognitive-Metacognition-The-Internal-Loop-
