@@ -231,3 +231,7 @@ https://github.com/Crystal-Bell/Repository-Status-Report-Wildfire-Threat-Analysi
 https://github.com/Crystal-Bell/reality-of-the-world-today-July-17-2026
 
 https://github.com/Crystal-Bell/Active-Events-Log-Protocol-Status-7-17-26
+
+https://github.com/Crystal-Bell/-M.A.D.-System-Protocol-Archive-Global-Resilience-Response
+
+https://github.com/Crystal-Bell/M.A.D.-System-Protocols-Resilience-Response
