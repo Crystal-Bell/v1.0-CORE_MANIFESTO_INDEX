@@ -206,3 +206,4 @@ https://github.com/Crystal-Bell/Protocol-268-The-Exo-Assembler-Local-Matter-Conv
 
 https://github.com/Crystal-Bell/Protocol-269-The-Royal-Cenote-Gown-
 
+https://github.com/Crystal-Bell/-Protocol-270-The-Cenote-Collection-Texture-Personality-Synthesis-
