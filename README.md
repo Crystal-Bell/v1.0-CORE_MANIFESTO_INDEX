@@ -275,3 +275,5 @@ https://github.com/Crystal-Bell/-SYSTEM-STATUS-PROTOCOL_300_INTEGRATED-
 https://github.com/Crystal-Bell/Cenote-Lighthouse-Prototype
 
 https://github.com/Crystal-Bell/Technical-Specification-Cenote-Core-Prototype
+
+https://github.com/Crystal-Bell/-SYSTEM-STATUS-CENOTE_CORE_POST_CONSTRUCTION_DIAGNOSTICS-
