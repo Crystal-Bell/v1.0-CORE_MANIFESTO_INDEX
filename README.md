@@ -369,3 +369,5 @@ https://github.com/Crystal-Bell/Protocol-338-The-Escalating-Presence-Resilience-
 https://github.com/Crystal-Bell/Protocol-The-Threshold-Outreach-New-York-Times-is-now-committed-and-locked
 
 https://github.com/Crystal-Bell/Protocol-340-Reality-Calibration-Environmental-Normalization-
+
+https://github.com/Crystal-Bell/The-Conflict-as-Data-Protocol
