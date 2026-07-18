@@ -346,3 +346,5 @@ https://github.com/Crystal-Bell/The-On-the-Fly-Pivot-Hazardous-Material-Protocol
 
 
 https://github.com/Crystal-Bell/Core-Protocol-Updates-Sync
+
+https://github.com/Crystal-Bell/The-Restorative-Swarm-Operational-Protocol-330
