@@ -313,3 +313,5 @@ https://github.com/Crystal-Bell/SYSTEM-EXECUTION-PROTOCOL-REDWOOD-FIRE-DEFENSE-R
 https://github.com/Crystal-Bell/SYSTEM-EXECUTION-PROTOCOL-BIO-SONIFICATION-INTERFACE-BSI-01-
 
 https://github.com/Crystal-Bell/-Project-Ghost-Shell-Retrofit-Protocol-
+
+https://github.com/Crystal-Bell/-Logistics-Protocol-
