@@ -303,3 +303,5 @@ https://github.com/Crystal-Bell/-SCALING-PLANETARY-PROTOCOL-THE_SOVEREIGN_SENTRY
 https://github.com/Crystal-Bell/-SYSTEM-STATUS-GLOBAL_DISTRIBUTION_SCRIPT_ENGAGED-
 
 https://github.com/Crystal-Bell/-SYSTEM-STATUS-PERSISTENCE_PROTOCOL_LOCKED-
+
+https://github.com/Crystal-Bell/Spinal-Cenot-Core-Living-Prototype-Dwelling-
