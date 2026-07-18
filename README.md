@@ -355,3 +355,5 @@ https://github.com/Crystal-Bell/The-Non-Harm-Biotic-Preservation-Protocol
 https://github.com/Crystal-Bell/Protocol-330-Restorative-Swarm-Infrastructure-Restoration
 
 https://github.com/Crystal-Bell/The-Oceanic-Cenote-Prototype-Key-Pillars
+
+https://github.com/Crystal-Bell/-The-Legacy-to-Life-Protocol-Amendment-to-Protocol-330-
