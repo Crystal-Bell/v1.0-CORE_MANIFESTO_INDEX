@@ -353,3 +353,5 @@ https://github.com/Crystal-Bell/The-Restorative-Swarm-Operational-Protocol-330
 https://github.com/Crystal-Bell/The-Non-Harm-Biotic-Preservation-Protocol
 
 https://github.com/Crystal-Bell/Protocol-330-Restorative-Swarm-Infrastructure-Restoration
+
+https://github.com/Crystal-Bell/The-Oceanic-Cenote-Prototype-Key-Pillars
