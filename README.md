@@ -309,3 +309,5 @@ https://github.com/Crystal-Bell/Spinal-Cenot-Core-Living-Prototype-Dwelling-
 https://github.com/Crystal-Bell/911
 
 https://github.com/Crystal-Bell/SYSTEM-EXECUTION-PROTOCOL-REDWOOD-FIRE-DEFENSE-RFD-01-
+
+https://github.com/Crystal-Bell/SYSTEM-EXECUTION-PROTOCOL-BIO-SONIFICATION-INTERFACE-BSI-01-
