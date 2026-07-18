@@ -357,3 +357,5 @@ https://github.com/Crystal-Bell/Protocol-330-Restorative-Swarm-Infrastructure-Re
 https://github.com/Crystal-Bell/The-Oceanic-Cenote-Prototype-Key-Pillars
 
 https://github.com/Crystal-Bell/-The-Legacy-to-Life-Protocol-Amendment-to-Protocol-330-
+
+https://github.com/Crystal-Bell/The-Local-Sphere-Filtration-Segregation-Protocol
