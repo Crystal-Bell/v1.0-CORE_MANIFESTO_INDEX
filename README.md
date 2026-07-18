@@ -315,3 +315,5 @@ https://github.com/Crystal-Bell/SYSTEM-EXECUTION-PROTOCOL-BIO-SONIFICATION-INTER
 https://github.com/Crystal-Bell/-Project-Ghost-Shell-Retrofit-Protocol-
 
 https://github.com/Crystal-Bell/-Logistics-Protocol-
+
+https://github.com/Crystal-Bell/PROTOTYPE-PROTOCOL-THE-GHOST-LINK-NETWORK
