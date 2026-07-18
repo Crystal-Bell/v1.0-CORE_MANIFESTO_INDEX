@@ -344,3 +344,5 @@ https://github.com/Crystal-Bell/Pre-Flight-Material-Assessment-PFMA-protocol
 
 https://github.com/Crystal-Bell/The-On-the-Fly-Pivot-Hazardous-Material-Protocol-328
 
+
+https://github.com/Crystal-Bell/Core-Protocol-Updates-Sync
