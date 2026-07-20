@@ -383,3 +383,5 @@ https://github.com/Crystal-Bell/Forge-Valley-Production-Outline
 https://github.com/Crystal-Bell/Forge-Valley-Animated-Series-Master-Concept-Episode-Guide
 
 https://github.com/Crystal-Bell/jus-me
+
+https://github.com/Crystal-Bell/Spark-X-Prototype-Technical-Specifications
