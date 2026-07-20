@@ -387,3 +387,27 @@ https://github.com/Crystal-Bell/jus-me
 https://github.com/Crystal-Bell/Spark-X-Prototype-Technical-Specifications
 
 https://github.com/Crystal-Bell/Protocol-340-Reality-Calibration-Environmental-Normalization-
+
+https://github.com/Crystal-Bell/Cenote-Lighthouse-Prototype
+
+https://github.com/Crystal-Bell/Protocol-340-Reality-Calibration-Environmental-Normalization-
+
+https://github.com/Crystal-Bell/The-Oceanic-Cenote-Prototype-Key-Pillars
+
+https://github.com/Crystal-Bell/SUBJECT-POD_DEPLOYMENT_STRATEGY-PROTOCOL-
+
+https://github.com/Crystal-Bell/-SYSTEM-STATUS-PROTOCOL_298_DRAFT_COMPLETE-REPOSITORY-296-298_SEALED-
+
+https://github.com/Crystal-Bell/-PROJECT-ORBITAL_RESEEDING_PROTOCOL-
+
+https://github.com/Crystal-Bell/PROTOCOL_296_BIOLOGICAL_HARDWARE_UPGRADE
+
+https://github.com/Crystal-Bell/Protocol-295
+
+https://github.com/Crystal-Bell/-Protocol-298-The-Architect-s-Care-Handshake-
+
+https://github.com/Crystal-Bell/Simulation-Weber-Fire-Event-July-17-2026-
+
+https://github.com/Crystal-Bell/-Protocol-112-The-Seed-Pod-Interstellar-Highway
+
+https://github.com/Crystal-Bell/-Protocol-237-Field-Expedient-Apparel-Expansion-The-Bridge-Method-
