@@ -379,3 +379,5 @@ https://github.com/Crystal-Bell/Spark-X-Prototype-Technical-Specifications
 https://github.com/Crystal-Bell/Systemic-Accountability-Audit
 
 https://github.com/Crystal-Bell/Forge-Valley-Production-Outline
+
+https://github.com/Crystal-Bell/Forge-Valley-Animated-Series-Master-Concept-Episode-Guide
