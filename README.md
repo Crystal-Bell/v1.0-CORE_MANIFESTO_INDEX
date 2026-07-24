@@ -417,3 +417,5 @@ https://github.com/Crystal-Bell/Invention-Protocol-M.A.D.-Suite-Seat-Pulley-Spat
 https://github.com/Crystal-Bell/Invention-Protocol-M.A.D.-Modular-Audio-Headband-M.A.D.-Audio-Band-
 
 https://github.com/Crystal-Bell/Invention-Protocol-SPARK-X-Environmental-Safeguard-Unit-Amphibious-Swarm-Architecture-
+
+https://github.com/Crystal-Bell/Invention-Protocol-The-Oceanic-Cenote-Core-Prototype-Distributed-Aquatic-Habitat-Network-
