@@ -421,3 +421,5 @@ https://github.com/Crystal-Bell/Invention-Protocol-SPARK-X-Environmental-Safegua
 https://github.com/Crystal-Bell/Invention-Protocol-The-Oceanic-Cenote-Core-Prototype-Distributed-Aquatic-Habitat-Network-
 
 https://github.com/Crystal-Bell/Invention-Protocol-Local-Sphere-Filtration-Biome-Segregation-Protocol
+
+https://github.com/Crystal-Bell/Invention-Protocol-Legacy-to-Life-Protocol-Amendment-to-Protocol-330-A
