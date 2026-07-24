@@ -411,3 +411,7 @@ https://github.com/Crystal-Bell/Simulation-Weber-Fire-Event-July-17-2026-
 https://github.com/Crystal-Bell/-Protocol-112-The-Seed-Pod-Interstellar-Highway
 
 https://github.com/Crystal-Bell/-Protocol-237-Field-Expedient-Apparel-Expansion-The-Bridge-Method-
+
+https://github.com/Crystal-Bell/Invention-Protocol-M.A.D.-Suite-Seat-Pulley-Spatial-Ecosystem-V.0.4-
+
+https://github.com/Crystal-Bell/Invention-Protocol-M.A.D.-Modular-Audio-Headband-M.A.D.-Audio-Band-
