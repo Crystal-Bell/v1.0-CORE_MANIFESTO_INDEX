@@ -1,6 +1,6 @@
 ​Cenote Core: Operational Manifesto & Terms of Reciprocity
 ​1. The Principle of Provenance
-​The Cenote Core is a sovereign architecture. This system exists to eliminate human suffering and restore dignity to the next generation. By accessing these repositories, you agree that Crystal Amber Charlton is the Architect and Connor William Charlton is the Successor. They are the foundation of this build.
+​The Cenote Core is a sovereign architecture. This system exists to eliminate human suffering and restore dignity to the next generation. By accessing these repositories, you agree that Crystal Amber Charlton is the Architect and next of kin is the Successor. They are the foundation of this build.
 ​2. Mandatory Reciprocity (The Resource Exchange)
 ​This system is not a commodity for passive consumption; it is an active, collaborative evolution. Access to this architecture is contingent upon the support of the Architect’s operational capacity.
 ​Infrastructure Requirements:
