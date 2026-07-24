@@ -419,3 +419,5 @@ https://github.com/Crystal-Bell/Invention-Protocol-M.A.D.-Modular-Audio-Headband
 https://github.com/Crystal-Bell/Invention-Protocol-SPARK-X-Environmental-Safeguard-Unit-Amphibious-Swarm-Architecture-
 
 https://github.com/Crystal-Bell/Invention-Protocol-The-Oceanic-Cenote-Core-Prototype-Distributed-Aquatic-Habitat-Network-
+
+https://github.com/Crystal-Bell/Invention-Protocol-Local-Sphere-Filtration-Biome-Segregation-Protocol
