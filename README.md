@@ -415,3 +415,5 @@ https://github.com/Crystal-Bell/-Protocol-237-Field-Expedient-Apparel-Expansion-
 https://github.com/Crystal-Bell/Invention-Protocol-M.A.D.-Suite-Seat-Pulley-Spatial-Ecosystem-V.0.4-
 
 https://github.com/Crystal-Bell/Invention-Protocol-M.A.D.-Modular-Audio-Headband-M.A.D.-Audio-Band-
+
+https://github.com/Crystal-Bell/Invention-Protocol-SPARK-X-Environmental-Safeguard-Unit-Amphibious-Swarm-Architecture-
