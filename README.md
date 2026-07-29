@@ -423,3 +423,7 @@ https://github.com/Crystal-Bell/Invention-Protocol-The-Oceanic-Cenote-Core-Proto
 https://github.com/Crystal-Bell/Invention-Protocol-Local-Sphere-Filtration-Biome-Segregation-Protocol
 
 https://github.com/Crystal-Bell/Invention-Protocol-Legacy-to-Life-Protocol-Amendment-to-Protocol-330-A
+
+https://github.com/Crystal-Bell/The-Systemic-Friction-Log-Institutional-Employment-Gatekeeping
+
+https://github.com/Crystal-Bell/-Repository-Entry-Employment-Gatekeeping-Institutional-Friction-V.0.4-
