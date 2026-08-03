@@ -454,3 +454,5 @@ https://github.com/Crystal-Bell/The-Top-10-Critical-Challenge-Questions
 https://github.com/Crystal-Bell/The-Master-Hub-Demographic-Branching-Architecture
 
 https://github.com/Crystal-Bell/The-Cross-Referenced-Living-Artifact-Physical-Layout-Blueprint
+
+https://github.com/Crystal-Bell/The-System-Builder-Doll-Prototype
