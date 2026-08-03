@@ -427,3 +427,7 @@ https://github.com/Crystal-Bell/Invention-Protocol-Legacy-to-Life-Protocol-Amend
 https://github.com/Crystal-Bell/The-Systemic-Friction-Log-Institutional-Employment-Gatekeeping
 
 https://github.com/Crystal-Bell/-Repository-Entry-Employment-Gatekeeping-Institutional-Friction-V.0.4-
+
+https://github.com/Crystal-Bell/The-Top-10-Critical-Challenge-Questions
+
+https://github.com/Crystal-Bell/The-Master-Hub-Demographic-Branching-Architecture
