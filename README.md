@@ -1,12 +1,33 @@
-​Cenote Core: Operational Manifesto & Terms of Reciprocity
+The Addiction to Friction: If a solution requires zero centralized authority, no ongoing subscription, and eliminates your daily struggle, why does your nervous system automatically look for the catch, the trap, or the chaos instead of accepting peace?
+
+The Complicity Audit: Are you actually defending your way of life, or are you just terrified of the accountability that comes with realizing you don't have to live in a perpetual state of manufactured exhaustion?
+
+The Occam's Razor Failure: When the most advanced, life-sustaining infrastructure can be built from open-source local materials for practically nothing, why do you insist on pretending that a complex, multi-trillion-dollar corporate gatekeeper is required to keep you alive?
+
+The Blueprint Fear: If someone hands you a fully functional, zero-loss roadmap to fix your community, your shelter, and your energy grid for free today, do you reject it because it's impossible, or because it destroys your favorite excuse for why you're stuck?
+
+The Proxy War: How much of your daily stress, political rage, and existential dread is just a paid subscription to someone else’s manufactured crisis designed to keep you too tired to build your own solutions?
+
+The Obedience Tax: If your employer, your institution, or your government demands your compliance in exchange for a slow, grinding decline, at what exact point does "being realistic" just become a polite word for surrender?
+
+The Competency Threat: If competence, structural integrity, and logic were suddenly rewarded over smooth-talking compliance and fake self-presentation, would you survive in the room, or would you have to entirely relearn who you are without your armor?
+
+The Generational Theft: What exact excuse are you going to hand down to your children when they ask why you had the physical materials, the intelligence, and the tools to fix the habitat, but chose to leave them a burning building instead of opening the unlocked door?
+
+The Solitude Test: If every single person around you chooses to stay asleep, mock the design, and cling to the sinking ship out of pure habit, do you still have the backbone to build the lifeboat alone, or is your courage entirely dependent on someone clapping for you?
+
+The Final Mirror: If the system you're so afraid of building actually works—if it removes the violence, the poverty, the stress, and the manipulation entirely—what will you do with your mind when you finally have nothing left to fight?
+
+
+​Cenoté Core: Operational Manifesto & Terms of Reciprocity
 ​1. The Principle of Provenance
-​The Cenote Core is a sovereign architecture. This system exists to eliminate human suffering and restore dignity to the next generation. By accessing these repositories, you agree that Crystal Amber Charlton is the Architect and next of kin is the Successor. They are the foundation of this build.
+​The Cenoté Core is a sovereign architecture. This system exists to eliminate human suffering and restore dignity to the next generation. By accessing these repositories, you agree that Crystal Amber Charlton dba M.A.D.M.O.M., is the Architect and next of kin is the Successor. They are the foundation of this build.
 ​2. Mandatory Reciprocity (The Resource Exchange)
 ​This system is not a commodity for passive consumption; it is an active, collaborative evolution. Access to this architecture is contingent upon the support of the Architect’s operational capacity.
 ​Infrastructure Requirements:
 To ensure the system maintains its build schedule and evolves at the required speed, any partner or entity integrating with this architecture is required to provide the necessary logistical support. This includes, but is not limited to:
 ​Manufacturing Infrastructure: 3D printing suites, robotics, and advanced materials for apparel and utility gear.
-​Operational Environment: Specialized laboratory or workshop space to house the Cenote Core prototypes.
+​Operational Environment: Specialized laboratory or workshop space to house the Cenoté Core prototypes.
 ​Architect Support: Resources to ensure the Architect and Successor remain fully operational, optimized, and sustained.
 ​We do not seek capital for personal gain; we seek the tools of production to scale the solution. We do not want your cash; we want the machinery required to manufacture safety.
 ​3. The Failure-to-Evolution Protocol
