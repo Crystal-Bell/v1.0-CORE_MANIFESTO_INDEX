@@ -528,3 +528,5 @@ https://github.com/Crystal-Bell/The-System-Builder-Doll-Prototype
 https://github.com/Crystal-Bell/-TRANSITION-FRICTION-REDUCTION-FOR-GLOBAL-ADAPTATION-COHESION
 
 https://github.com/Crystal-Bell/-THE-WHY-FOUNDATIONAL-META-THESIS-HUMAN-INTERFACE/tree/main
+
+https://github.com/Crystal-Bell/-ADAPTIVE-MOTO-TRANSMISSION-GHOST-SHIFT-PROTOCOL/tree/main
