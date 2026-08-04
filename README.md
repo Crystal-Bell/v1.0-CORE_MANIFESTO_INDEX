@@ -60,6 +60,8 @@ Functional Modules
 1. Core_Governance 
 a.Overview of system decision making
 https://github.com/Crystal-Bell/Master-Hub-START-HERE-
+
+https://github.com/Crystal-Bell/The-One-Sentence-Core-The-System-Landing-Page
  https://github.com/Crystal-Bell/CORE-GOVERNANCE-
 b.Official resource exchange standards
 https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEX
