@@ -530,3 +530,8 @@ https://github.com/Crystal-Bell/-TRANSITION-FRICTION-REDUCTION-FOR-GLOBAL-ADAPTA
 https://github.com/Crystal-Bell/-THE-WHY-FOUNDATIONAL-META-THESIS-HUMAN-INTERFACE/tree/main
 
 https://github.com/Crystal-Bell/-ADAPTIVE-MOTO-TRANSMISSION-GHOST-SHIFT-PROTOCOL/tree/main
+
+
+https://github.com/Crystal-Bell/repo_name-Live-Acting-Invitation-Protocol
+
+https://github.com/Crystal-Bell/repo_name-M.A.D.-Wear-Kids-Collection
