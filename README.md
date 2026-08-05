@@ -551,3 +551,4 @@ https://github.com/Crystal-Bell/MAD-Works-Ecosystem-deployment-protocol
 
 https://github.com/Crystal-Bell/MAD-Works-ecosystem-to-Earth-s-worst-contamination-zones
 
+https://github.com/Crystal-Bell/The-Consequence-Friction-Protocol
