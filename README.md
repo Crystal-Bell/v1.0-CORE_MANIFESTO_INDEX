@@ -535,3 +535,6 @@ https://github.com/Crystal-Bell/-ADAPTIVE-MOTO-TRANSMISSION-GHOST-SHIFT-PROTOCOL
 https://github.com/Crystal-Bell/repo_name-Live-Acting-Invitation-Protocol
 
 https://github.com/Crystal-Bell/repo_name-M.A.D.-Wear-Kids-Collection
+
+https://github.com/Crystal-Bell/External-Ecosystem-Cross-Reference
+
