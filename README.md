@@ -549,3 +549,5 @@ https://github.com/Crystal-Bell/-Repository-Architecture-Update-Anti-Exploitatio
 
 https://github.com/Crystal-Bell/MAD-Works-Ecosystem-deployment-protocol
 
+https://github.com/Crystal-Bell/MAD-Works-ecosystem-to-Earth-s-worst-contamination-zones
+
