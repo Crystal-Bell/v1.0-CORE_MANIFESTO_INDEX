@@ -538,3 +538,8 @@ https://github.com/Crystal-Bell/repo_name-M.A.D.-Wear-Kids-Collection
 
 https://github.com/Crystal-Bell/External-Ecosystem-Cross-Reference
 
+
+https://github.com/Crystal-Bell/Fleet-OS-Geo-Amperage-or-M.A.D.-Structural-Harvesting
+
+
+https://github.com/Crystal-Bell/Dbug-Apparel-Concept
