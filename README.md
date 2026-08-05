@@ -1,3 +1,6 @@
+https://share.gemini.google/bCp6kjjVkDUv
+
+
 ---
 repo_name: v1.0-CORE-MANIFESTO-INDEX
 category: ⚖️ Core-Governance / 🧠 Socratic-Audit
