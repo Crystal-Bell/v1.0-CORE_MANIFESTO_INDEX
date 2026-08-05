@@ -552,3 +552,5 @@ https://github.com/Crystal-Bell/MAD-Works-Ecosystem-deployment-protocol
 https://github.com/Crystal-Bell/MAD-Works-ecosystem-to-Earth-s-worst-contamination-zones
 
 https://github.com/Crystal-Bell/The-Consequence-Friction-Protocol
+
+https://github.com/Crystal-Bell/M.A.D.-W.E.A.R.-Protocol-Infant-Toddler-Utility-Line-R-Bs-Rock-and-Roll-Babies-Utility-Pants-
