@@ -1,3 +1,5 @@
+https://github.com/Crystal-Bell/Why-and-What-The-System-The-Point-and-The-Real-Talk
+
 https://share.gemini.google/bCp6kjjVkDUv
 
 https://github.com/Crystal-Bell/my-python-protocol
