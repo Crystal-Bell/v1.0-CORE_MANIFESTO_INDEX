@@ -582,3 +582,5 @@ Despite the massive breadth of the digital repository and physical prototypes, a
 
 
 https://github.com/Crystal-Bell/M.A.D.-W.E.A.R.-Universal-Demographic-Expansion-Protocol
+
+https://github.com/Crystal-Bell/The-Foundry-Protocol-
