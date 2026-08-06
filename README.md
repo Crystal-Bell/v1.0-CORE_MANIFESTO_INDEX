@@ -585,3 +585,7 @@ Despite the massive breadth of the digital repository and physical prototypes, a
 https://github.com/Crystal-Bell/M.A.D.-W.E.A.R.-Universal-Demographic-Expansion-Protocol
 
 https://github.com/Crystal-Bell/The-Foundry-Protocol-
+https://github.com/Crystal-Bell/The-M.A.D.-Works-Wildland-Infrastructure-Protocolhttps://github.com/Crystal-Bell/Cenote-Foundry-Manifest-or-Resource-Allocation-Blueprinthttps://github.com/Crystal-Bell/-Contribution-Integration- https://suno.com/@cc892589#OpenSource 
+#CreativeCollaboration 
+#GameDev #MovementArt
+#MADWorks#ProofOfExistence #POE #ForgeTunes #MADWORKSystems #spreadthegrowthofkindness 
