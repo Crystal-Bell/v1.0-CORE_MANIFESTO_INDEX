@@ -1,3 +1,5 @@
+https://github.com/Crystal-Bell/fossil-fuel-energy-legacy-systems-
+
 https://github.com/Crystal-Bell/Core-Operating-Systems-Architecture...
 
 https://github.com/Crystal-Bell/Why-and-What-The-System-The-Point-and-The-Real-Talk
