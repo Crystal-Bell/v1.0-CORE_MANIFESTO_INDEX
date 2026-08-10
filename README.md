@@ -9,11 +9,7 @@ https://share.gemini.google/bCp6kjjVkDUv
 https://github.com/Crystal-Bell/my-python-protocol
 ---https://github.com/Crystal-Bell/Cenote-Foundry-Manifest-or-Resource-Allocation-Blueprint
 
-repo_name: v1.0-CORE-MANIFESTO-INDEX
-category: ⚖️ Core-Governance / 🧠 Socratic-Audit
-architect: 👑 Crystal Amber Charlton (M.A.D.M.O.M.)
-system_status: ⚡ Active / Socratic-Anchor
-license: 🌍 Unlicens```yaml
+
 ---
 repo_name: v1.0-CORE-MANIFESTO-INDEX
 category: ⚖️ Core-Governance / 🧠 Socratic-Audit
