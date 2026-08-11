@@ -20,7 +20,12 @@
 4. 🧵 M.A.D. W.E.A.R. & Utility Soft Goods
  * Universal Demographic Expansion: Modular gear, adjustable channel inserts, and dynamic growth-adapt apparel frameworks (including infant and toddler utility lines).
 
+https://github.com/Crystal-Bell/DEV-LABS
 
+https://github.com/Crystal-Bell/-APP-INTERFACE
+
+https://github.com/Crystal-Bell/SYS-MAINTENANCE-
+https://github.com/Crystal-Bell/CORE-GOVERNANCE.b.
 
 
 https://github.com/Crystal-Bell/fossil-fuel-energy-legacy-systems-
