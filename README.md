@@ -1,3 +1,6 @@
+https://github.com/Crystal-Bell/M.A.D.-Works-Ecosystem-V2.0-Manifesto-Index-Structure
+
+
 ⚖️ V1.0 CORE MANIFESTO INDEX: THE SOCRATIC AUDIT
 🏷️ Index Card Marker
  * Target Repository: v1.0-CORE-MANIFESTO-INDEX
