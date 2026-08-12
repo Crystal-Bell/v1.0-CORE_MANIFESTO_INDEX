@@ -628,3 +628,10 @@ https://github.com/Crystal-Bell/The-M.A.D.-Works-Wildland-Infrastructure-Protoco
 #MADWorks#ProofOfExistence #POE #ForgeTunes #MADWORKSystems #spreadthegrowthofkindness 
 
 https://github.com/Crystal-Bell/Havenlock-Infrastructure-Transition-Protocol
+
+
+https://github.com/Crystal-Bell/MAD-Ecosystem-Tree-Functional-Architecture
+
+https://github.com/Crystal-Bell/Apicentric-Habitat-Bee-Rehabilitation-Module
+
+https://github.com/Crystal-Bell/M.A.D.-Bioswarm-Ecological-Node-Artificial-Woodland-Infrastructure-MAD-Tree-
