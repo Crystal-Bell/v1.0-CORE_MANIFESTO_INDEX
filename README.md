@@ -1,3 +1,34 @@
+name: Auto-Update Master Index
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install pyyaml
+
+      - name: Run Indexing Script
+        run: python update_index.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update Master Index via YAML metadata parsing"
+          file_pattern: MANIFESTO_INDEX.md
+
 https://share.gemini.google/2l2J0c4TxSQS
 
 https://github.com/Crystal-Bell/M.A.D.-Works-Ecosystem-V2.0-Manifesto-Index-Structure
