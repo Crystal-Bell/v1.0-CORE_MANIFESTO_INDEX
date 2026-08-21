@@ -1,3 +1,5 @@
+https://share.gemini.google/2l2J0c4TxSQS
+
 https://github.com/Crystal-Bell/M.A.D.-Works-Ecosystem-V2.0-Manifesto-Index-Structure
 
 
